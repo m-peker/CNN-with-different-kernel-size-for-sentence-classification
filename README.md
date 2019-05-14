@@ -11,6 +11,7 @@ Here, There are three filter region sizes: 2, 3 and 4, each of which has 2 filte
 
 References: 
 1 - http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
+
 2 - Zhang, Y., & Wallace, B. (2015). A Sensitivity Analysis of (and Practitioners’ Guide to) Convolutional Neural Networks for Sentence Classification.
 
 
